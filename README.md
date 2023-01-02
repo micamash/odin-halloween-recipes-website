@@ -1,1 +1,1 @@
-This project is a basic recipe website. Upon completing this project I will have demonstrated my understanding of what I have learned via the HTML foundations course on The Odin Project.
+This project is a basic recipe website. Upon completing this project I will have demonstrated my understanding of what I have learned via the HTML & CSS foundations courses on The Odin Project.
