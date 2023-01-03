@@ -4,3 +4,8 @@ body {
     font-family: Tahoma, Verdana, sans-serif;
     text-align: center;
     }
+
+img {
+    height: auto;  
+    max-width: 10%;
+    }
